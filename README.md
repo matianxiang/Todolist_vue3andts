@@ -1,24 +1,19 @@
+<!--
+ * @Author: Moyo
+ * @Date: 2022-03-16 17:35:21
+ * @LastEditors: Moyo
+ * @LastEditTime: 2022-03-17 15:56:54
+ * @Description: 
+-->
 # todolist
 
-## Project setup
+## 注入依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
